@@ -55,13 +55,13 @@ params:
 
     # -----------------------------------------------------------
     # HOME PAGE — photo, headline, short introduction and buttons.
-    # To change your photo, replace the file static/picture.jpeg
+    # To change your photo, replace the file static/profile-2026.jpeg
     # -----------------------------------------------------------
     profileMode:
           enabled: true
           title: Rajeswari Sengupta
           subtitle: "I am an Associate Professor of Economics at the [Indira Gandhi Institute of Development Research (IGIDR)](http://www.igidr.ac.in/) in Mumbai, India. My research focuses on international finance, open economy macroeconomics, monetary economics, banking and financial markets, and national accounts measurement. I am a monthly columnist at the Business Standard."
-          imageUrl: picture.jpeg
+          imageUrl: profile-2026.jpeg
           imageWidth: 160
           imageHeight: 160
           buttons:
