@@ -1,0 +1,109 @@
+baseURL: "https://example.github.io/"   # GitHub fills in the real address automatically when it publishes
+title: Rajeswari Sengupta
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+# ---------------------------------------------------------------
+# MENU — the links across the top of every page.
+# "weight" sets the order (smaller number = further left).
+# ---------------------------------------------------------------
+menu:
+    main:
+        - name: Research
+          url: research/
+          weight: 1
+        - name: Writing
+          url: writing/
+          weight: 2
+        - name: Talks
+          url: talks/
+          weight: 3
+        - name: Teaching
+          url: teaching/
+          weight: 4
+        - name: Data
+          url: data/
+          weight: 5
+        - name: News
+          url: news/
+          weight: 6
+        - name: About
+          url: about/
+          weight: 7
+
+params:
+    description: "Rajeswari Sengupta is an Associate Professor of Economics at the Indira Gandhi Institute of Development Research (IGIDR), Mumbai."
+    author: Rajeswari Sengupta
+    DateFormat: January 2006
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: false
+    ShowToc: false
+    disableScrollToTop: false
+    ShowWordCount: false
+    comments: false
+    math: false
+
+    # -----------------------------------------------------------
+    # HOME PAGE — photo, headline, short introduction and buttons.
+    # To change your photo, replace the file static/picture.jpeg
+    # -----------------------------------------------------------
+    profileMode:
+          enabled: true
+          title: Rajeswari Sengupta
+          subtitle: "I am an Associate Professor of Economics at the [Indira Gandhi Institute of Development Research (IGIDR)](http://www.igidr.ac.in/) in Mumbai, India. My research focuses on international finance, open economy macroeconomics, monetary economics, banking and financial markets, and national accounts measurement. I am a monthly columnist at the Business Standard."
+          imageUrl: picture.jpeg
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Research
+              url: research/
+            - name: Writing
+              url: writing/
+            - name: Talks
+              url: talks/
+            - name: Teaching
+              url: teaching/
+            - name: Data
+              url: data/
+            - name: News
+              url: news/
+            - name: About
+              url: about/
+
+    # -----------------------------------------------------------
+    # ICONS under the buttons on the home page.
+    # -----------------------------------------------------------
+    socialIcons:
+        - name: CV
+          url: http://www.igidr.ac.in/?staff=sengupta-rajeswari
+        - name: Email
+          url: mailto:rajeswari@igidr.ac.in
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=TZmZQksAAAAJ&hl=en
+        - name: Substack
+          url: https://rajeswari.substack.com/
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: Rajeswari Sengupta
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
