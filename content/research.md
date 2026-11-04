@@ -115,6 +115,10 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 
 + [Tackling India's jobs plight: Underutilised levers and lessons from China](https://www.bruegel.org/working-paper/tackling-indias-jobs-plight-underutilised-levers-and-lessons-china) (with Alicia Garcia-Herrero), Bruegel Working Paper, March 2026.
 
+#### International trade
+
++ [Trade agreements and cross-border patenting: How much and when?](http://www.igidr.ac.in/wp-2026-020/) (with Ridwan Ah Sheikh), IGIDR Working Paper 2026-020, October 2026.
+
 ---
 
 ## Book chapters
