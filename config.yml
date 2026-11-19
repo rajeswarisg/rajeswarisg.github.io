@@ -85,7 +85,7 @@ params:
     # -----------------------------------------------------------
     socialIcons:
         - name: CV
-          url: http://www.igidr.ac.in/?staff=sengupta-rajeswari
+          url: cv.pdf
         - name: Email
           url: mailto:rajeswari@igidr.ac.in
         - name: Google Scholar

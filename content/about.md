@@ -26,4 +26,4 @@ Email: rajeswari [at] igidr.ac.in
 
 #### Elsewhere
 
-[CV](http://www.igidr.ac.in/?staff=sengupta-rajeswari) · [Google Scholar](https://scholar.google.com/citations?user=TZmZQksAAAAJ&hl=en) · [Ideas for India](https://www.ideasforindia.in/profile/rajeswari.html) · [The Leap Blog](https://blog.theleapjournal.org/2016/09/author-rajeswari-sengupta.html) · [VoxEU](https://cepr.org/about/people/rajeswari-sengupta) · [Substack](https://rajeswari.substack.com/) · [Media blog](https://rasemedia.blogspot.com/)
+[CV](/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=TZmZQksAAAAJ&hl=en) · [Ideas for India](https://www.ideasforindia.in/profile/rajeswari.html) · [The Leap Blog](https://blog.theleapjournal.org/2016/09/author-rajeswari-sengupta.html) · [VoxEU](https://cepr.org/about/people/rajeswari-sengupta) · [Substack](https://rajeswari.substack.com/) · [Media blog](https://rasemedia.blogspot.com/)
