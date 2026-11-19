@@ -12,6 +12,7 @@ description: "Newspaper columns and blog posts by Rajeswari Sengupta."
 
 #### 2026
 
++ [Is the RBI behind the curve?](https://rasemedia.blogspot.com/2026/11/is-rbi-behind-curve.html), *Business Standard*, November 17. kw: inflation, monetary policy, RBI.
 + [RBI's rupee fix: What is it solving?](https://rasemedia.blogspot.com/2026/10/rbis-rupee-fix-what-is-it-solving.html), *Business Standard*, October 22. kw: rupee, RBI, currency derivatives.
 + [FCNR(B): Has RBI bought forex stability at too high a cost?](https://rasemedia.blogspot.com/2026/09/fcnrb-has-rbi-bought-forex-stability-at.html), *The Economic Times*, September 29. kw: rupee, RBI, capital inflows.
 + [The GDP debate, redux](https://rasemedia.blogspot.com/2026/09/the-gdp-debate-redux.html), *Business Standard*, September 15. kw: GDP data, deflator, MoSPI.
