@@ -218,6 +218,8 @@ description: "Newspaper columns and blog posts by Rajeswari Sengupta."
 
 + [RBI's alternative route for foreign debt inflows](https://blog.theleapjournal.org/2018/11/rbis-alternative-route-for-foreign-debt.html) (with Radhika Pandey and Bhargavi Zaveri), *The Leap Blog*, November 6, 2018.
 + [An annotated reading list on the Indian bankruptcy reform](https://blog.theleapjournal.org/2018/08/an-annotated-reading-list-on-indian.html) (with Anjali Sharma), *The Leap Blog*, August 14, 2018.
++ [Public bank privatisation: No panacea for the ills of the banking sector](https://www.ideasforindia.in/topics/miscellany/public-bank-privatisation-no-panacea-for-the-ills-of-the-banking-sector.html) (with Shubho Roy), *Ideas for India*, April 25, 2018.
++ [Understanding the recent ordinance amending the Insolvency and Bankruptcy Code](https://www.ideasforindia.in/topics/money-finance/understanding-the-recent-ordinance-amending-the-insolvency-and-bankruptcy-code.html) (with Anjali Sharma), *Ideas for India*, March 23, 2018.
 + [Communicating uncertainties in GDP data](http://www.ideasforindia.in/topics/macroeconomics/communicating-uncertainties-in-gdp-data.html) (with Amey Sapre), *Ideas for India*, February 2018.
 + [Bank recapitalisation: The allocation challenge](https://ajayshahblog.blogspot.in/2018/01/bank-recapitalisation-allocation.html) (with Anjali Sharma), *The Leap Blog*, January 30, 2018.
 
@@ -225,7 +227,6 @@ description: "Newspaper columns and blog posts by Rajeswari Sengupta."
 
 + [Commercial wisdom to judicial discretion: NCLT reorients IBC](https://ajayshahblog.blogspot.in/2017/12/commercial-wisdom-to-judicial.html) (with Pratik Datta), *The Leap Blog*, December 13, 2017.
 + [Understanding the recent IBC (Amendment) Ordinance, 2017](https://ajayshahblog.blogspot.in/2017/12/understanding-recent-ibc-amendment.html) (with Anjali Sharma), *The Leap Blog*, December 7, 2017.
-+ [Studying revisions in Indian GDP data](http://www.ideasforindia.in/article.aspx?article=Studying-revisions-in-Indian-GDP-data) (with Amey Sapre), *Ideas for India*, November 28, 2017.
 + [Bank recapitalisation: The myth around growth capital](https://ajayshahblog.blogspot.in/2017/11/bank-recapitalisation-myth-around.html) (with Anjali Sharma), *The Leap Blog*, November 21, 2017.
 + [NPA Ordinance: The impact of secrecy in ordinance making](https://ajayshahblog.blogspot.in/2017/06/npa-ordinance-impact-of-secrecy-in_30.html) (with Pratik Datta), *The Leap Blog*, June 30, 2017.
 + [Bank financing of stressed firms](http://www.ideasforindia.in/article.aspx?article=Bank-financing-of-stressed-firms) (with Anjali Sharma), *Ideas for India*, June 7, 2017.
@@ -236,6 +237,7 @@ description: "Newspaper columns and blog posts by Rajeswari Sengupta."
 + [Will demonetisation lead to a protracted economic slowdown?](http://www.ideasforindia.in/article.aspx?article_id=1743) (with Radhika Pandey), *Ideas for India*, December 15, 2016.
 + [How will IBC 2016 deal with existing bank NPAs?](https://ajayshahblog.blogspot.in/2016/12/how-will-ibc-2016-deal-with-existing.html) (with Anjali Sharma), *The Leap Blog*, December 5, 2016.
 + [Demonetisation needs a Parliamentary law to be fool-proof](https://blog.theleapjournal.org/2016/12/demonetisation-needs-parliamentary-law.html) (with Pratik Datta), *The Leap Blog*, December 1, 2016.
++ [Studying revisions in Indian GDP data](http://www.ideasforindia.in/article.aspx?article=Studying-revisions-in-Indian-GDP-data) (with Amey Sapre), *Ideas for India*, November 28, 2016.
 + [GDP conundrum: Is India booming?](http://www.ideasforindia.in/article.aspx?article_id=1724), *Ideas for India*, November 16, 2016.
 + [A macro view of India's currency ban](http://www.ideasforindia.in/topics/macroeconomics/a-macro-view-of-india-s-currency-ban.html), *Ideas for India*, November 15, 2016.
 + [The great Indian GDP measurement controversy](https://ajayshahblog.blogspot.in/2016/09/the-great-indian-gdp-measurement.html), *The Leap Blog*, September 10, 2016.
@@ -251,9 +253,10 @@ description: "Newspaper columns and blog posts by Rajeswari Sengupta."
 
 #### 2010–2014
 
++ [Corporate debt market in India: Issues and challenges](https://www.ideasforindia.in/topics/money-finance/corporate-debt-market-in-india-issues-and-challenges.html) (with Vaibhav Anand), *Ideas for India*, May 19, 2014.
 + [Exchange rate movements and Indian firms' exports](http://ideasforindia.in/article.aspx?article_id=211) (with Yin-Wong Cheung), *Ideas for India*, November 1, 2013.
 + [The challenges of opening up India's capital account](http://www.ideasforindia.in/article.aspx?article_id=140) (with Abhijit Sen Gupta), *Ideas for India*, May 15, 2013.
-+ [Understanding India's monetary policy](http://www.ideasforindia.in/article.aspx?article_id=86), *Ideas for India*, December 21, 2012.
++ [Understanding India's monetary policy](http://www.ideasforindia.in/article.aspx?article_id=86) (with Nirvikar Singh), *Ideas for India*, December 21, 2012.
 + [Series on the Indian corporate debt market](http://www.ifmr.co.in/blog/category/long-term-debt-markets/), *Dvara Research Blog*, 2012–2013.
 + [The financial trilemma in China and a comparative analysis with India](http://www.voxeu.org/article/trilemma-china-and-india) (with Joshua Aizenman), *VoxEU*, November 15, 2011.
 + [Global imbalances: Is Germany the new China? A sceptical view](http://www.voxeu.org/article/germany-new-china-sceptical-view) (with Joshua Aizenman), *VoxEU*, October 5, 2010.

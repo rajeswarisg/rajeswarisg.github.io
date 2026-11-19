@@ -14,7 +14,7 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 
 + [The journey of inflation targeting in India](https://ippr.in/index.php/ippr/article/view/420/153) (with Radhika Pandey and Ila Patnaik), *Indian Public Policy Review*, 2025.
 + [Bank capital and monetary policy transmission: Analyzing the central bank's dilemma in the Indian context](https://www.sciencedirect.com/science/article/abs/pii/S0264999325001531) (with Harsh Vardhan and Akhilesh Verma), *Economic Modelling*, 2025.
-+ [Measuring monetary policy shocks in emerging economies: Evidence from India](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13144) (with Aeimit Lakdawala), *Journal of Money, Credit and Banking*, March 2024.  
++ [Measuring monetary policy shocks in emerging economies: Evidence from India](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13144) (with Aeimit Lakdawala), *Journal of Money, Credit and Banking*, 2025.  
   [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3905642) · [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2021-021.pdf) · [Monetary shocks data](https://aeimit.weebly.com/uploads/2/5/5/8/25585085/monshocks_india.csv) · [Blogpost in Ideas for India](https://www.ideasforindia.in/topics/money-finance/how-do-rbi-s-actions-and-words-affect-financial-markets.html)
 + [Impact of RBI's monetary policy announcements on government bond yields: Evidence from the pandemic](https://trebuchet.public.springernature.app/get_content/82469cdf-c416-4a0b-8aee-271405fe39e4) (with Aeimit Lakdawala and Bhanu Pratap), *Indian Economic Review*, May 2023.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2023-004.pdf)
@@ -29,9 +29,9 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 
 + Capital mobility based on onshore-offshore arbitrage: Empirical evidence from India and China (with Nidhi Aggarwal and Sanchit Arora), *Open Economies Review*, 2025.  
   [Working paper](https://ideas.repec.org/p/ind/igiwpp/2022-005.html)
-+ [Analysing India's exchange rate regime](https://www.ncaer.org/wp-content/uploads/2022/09/IPF2021Paper2.pdf) (with Ila Patnaik), *India Policy Forum*, 2021.  
++ [Analysing India's exchange rate regime](https://www.ncaer.org/wp-content/uploads/2022/09/IPF2021Paper2.pdf) (with Ila Patnaik), *India Policy Forum*, 2022.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2021-022.pdf) · [Blogpost in Ideas for India](https://www.ideasforindia.in/topics/macroeconomics/understanding-the-dynamics-of-the-rupee-dollar-exchange-rate.html)
-+ [External shocks, cross border flows and macroeconomic risks in emerging market economies](https://link.springer.com/article/10.1007/s00181-021-02099-z) (with Ashima Goyal and Akhilesh Verma), *Empirical Economics*, July 2021.  
++ [External shocks, cross border flows and macroeconomic risks in emerging market economies](https://link.springer.com/article/10.1007/s00181-021-02099-z) (with Ashima Goyal and Akhilesh Verma), *Empirical Economics*, 2022.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2019-013.pdf)
 + [Inter-linkages between external debt financing, credit cycles and output fluctuations in emerging market economies](https://link.springer.com/article/10.1007/s10290-021-00424-3) (with Akhilesh Verma), *Review of World Economics*, June 2021.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2020-012.pdf)
@@ -61,12 +61,12 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 
 + An analysis of revisions in India GDP data (with Amey Sapre), *World Economics*, December 2017.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2017-015.pdf)
-+ [Four years after the base-year revision: Taking stock of the debate surrounding India's national income estimates](https://www.ncaer.org/image/userfiles/file/IPF2019/Papers_F/Four%20years%20after%20the%20base-year%20revision-Taking%20stock%20of%20the%20debate%20surrounding%20India%27s%20National%20Accounts%20estimates_R_%20Nagaraj,%20Amey%20Sapre%20&%20Rajeswari%20Sengupta_India%20Policy%20Forum%202019%20Vol%20%2016-78-131.pdf) (with Amey Sapre and R. Nagaraj), *India Policy Forum*, 2019.  
++ [Four years after the base-year revision: Taking stock of the debate surrounding India's national income estimates](https://www.ncaer.org/image/userfiles/file/IPF2019/Papers_F/Four%20years%20after%20the%20base-year%20revision-Taking%20stock%20of%20the%20debate%20surrounding%20India%27s%20National%20Accounts%20estimates_R_%20Nagaraj,%20Amey%20Sapre%20&%20Rajeswari%20Sengupta_India%20Policy%20Forum%202019%20Vol%20%2016-78-131.pdf) (with Amey Sapre and R. Nagaraj), *India Policy Forum*, 2020.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2021-006.pdf)
 
 #### Covid-19
 
-+ [Saved by the bell? Equity market responses to surprise Covid-19 lockdowns and central bank interventions](https://www.sciencedirect.com/science/article/pii/S1049007823001112) (with Aakriti Mathur and Bhanu Pratap), *Journal of Asian Economics*, 2024.  
++ [Equity market responses to surprise Covid-19 lockdowns: The role of pandemic-driven uncertainty](https://www.sciencedirect.com/science/article/pii/S1049007823001112) (with Aakriti Mathur and Bhanu Pratap), *Journal of Asian Economics*, 2024.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2022-001.pdf)
 + [Impact of Covid-19 on Indian economy: An analysis of fiscal scenarios](https://www.ippr.in/index.php/ippr/article/download/8/6/15) (with Ila Patnaik), *Indian Public Policy Review*, 2020.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2020-026.pdf)
@@ -77,6 +77,7 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 
 #### Monetary policy
 
++ [Inflation targeting, monetary policy surprises, and capital misallocation](https://econpapers.repec.org/RePEc:ris:cafral:023676) (with Vidhya Soundararajan and Vaibhav Nainwal), CAFRAL Working Paper, September 2026.
 + [Do actions match words? Reassessing the Taylor rule in an emerging-market context](https://www.bostonfed.org/publications/research-department-working-paper/2026/reassessing-taylor-rule-in-emerging-market-context.aspx) (with Vaishali Garga), Federal Reserve Bank of Boston Working Paper, August 2026.
 + [Monetary policy in India: The long road to inflation targeting](http://www.igidr.ac.in/pdf/publication/WP-2026-005.pdf), IGIDR Working Paper 2026-005, April 2026.
 + [Is core inflation useful in predicting headline inflation? Evidence from a large, emerging economy](http://www.igidr.ac.in/pdf/publication/WP-2025-021.pdf) (with Yogeshwar Bharat and Gautham Udupa), IGIDR Working Paper 2025-021, August 2025.
@@ -91,8 +92,7 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 #### Open economy macroeconomics
 
 + [Capital account openness in India and a comparison with China: Then versus now](http://www.igidr.ac.in/pdf/publication/WP-2022-005.pdf) (with Nidhi Aggarwal and Sanchit Arora), IGIDR Working Paper 2022-005, May 2022.
-+ [Capital account liberalisation in a large emerging economy: An analysis of onshore-offshore arbitrage](http://www.igidr.ac.in/working-paper-30/) (with Nidhi Aggarwal and Sanchit Arora), IGIDR Working Paper 2021-013, April 2021.  
-  [Blogpost in Ideas for India](https://www.ideasforindia.in/topics/macroeconomics/how-open-is-indias-capital-account.html)
++ [Capital account liberalisation in a large emerging economy: An analysis of onshore-offshore arbitrage](http://www.igidr.ac.in/working-paper-30/) (with Nidhi Aggarwal and Sanchit Arora), IGIDR Working Paper 2021-013, April 2021.
 + [Evolution of capital controls on foreign institutional investment in India](http://www.igidr.ac.in/pdf/publication/WP-2019-034.pdf) (with Radhika Pandey, Aatmin Shah and Bhargavi Zaveri), IGIDR Working Paper 2019-034, November 2019.
 + [Is there a case for exchange rate co-ordination in South Asia?](http://www.igidr.ac.in/pdf/publication/WP-2016-001.pdf) (with Abhijit Sen Gupta), IGIDR Working Paper 2016-001, January 2016.
 + [U.S. investment in global bonds: As the Fed pushes, some EMEs pull](https://www.nber.org/papers/w20571) (with John Burger, Frank Warnock and Veronica Warnock), NBER Working Paper 20571, October 2014.
@@ -105,6 +105,7 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 + [Bankruptcy regime change and credit risk premium on corporate bonds: Evidence from the Indian economy](http://www.igidr.ac.in/igidr-publicationbankruptcy-regime-change-credit-risk-premium-corporate-bonds-evidence-indian-economy/) (with Harsh Vardhan), IGIDR Working Paper 2023-001, January 2023.
 + [A study of the non-banking finance companies in India](https://www.adb.org/publications/nonbanking-financial-companies-india) (with Lei Lei Song and Harsh Vardhan), ADB South Asia Working Paper 83, October 2021.
 + [Are more productive banks always better?](http://www.igidr.ac.in/pdf/publication/WP-2020-027.pdf) (with Harsh Vardhan), IGIDR Working Paper 2020-027, August 2020.
++ [Corporate debt market in India: Lessons from the South African experience](https://mpra.ub.uni-muenchen.de/57465/) (with Vaibhav Anand), IGIDR Working Paper 2014-029, July 2014.
 
 #### Firm financing
 
@@ -154,3 +155,4 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 + Private credit: An emerging success story, in IBBI annual publication [*IBC: Evolution, Learnings and Innovation*](https://ibbi.gov.in/uploads/publication/c9800578f99e42c11b5573b4686fb545.pdf), 2023.
 + Evolution of the insolvency framework for non-financial firms in India (with Anjali Sharma and Susan Thomas), *India Development Report*, 2017.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2016-018.pdf)
++ [Corporate debt market in India: Issues and challenges](https://mpra.ub.uni-muenchen.de/53945/) (with Vaibhav Anand), *India Development Report*, 2014–15.
