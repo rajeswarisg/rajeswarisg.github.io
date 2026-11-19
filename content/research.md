@@ -50,8 +50,6 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 
 #### Financial markets and institutions
 
-+ [Bankruptcy regime change and credit risk premium on corporate bonds: Evidence from the Indian economy](http://www.igidr.ac.in/igidr-publicationbankruptcy-regime-change-credit-risk-premium-corporate-bonds-evidence-indian-economy/) (with Harsh Vardhan), forthcoming in *Asian Development Review*.  
-  [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2023-001.pdf)
 + [Productivity growth in Indian banking: Who did the gains accrue to?](https://www.tandfonline.com/doi/abs/10.1080/14736489.2021.2018204) (with Harsh Vardhan), *India Review*, June 2021.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2020-024.pdf) · [Blogpost in Ideas for India](https://www.ideasforindia.in/topics/money-finance/productivity-growth-in-indian-banking-who-gained.html)
 + [Non-performing assets in Indian banks: This time it is different?](https://www.epw.in/journal/2017/12/money-banking-and-finance/non-performing-assets-indian-banks.html) (with Harsh Vardhan), *Economic and Political Weekly*, March 2017.  
@@ -104,6 +102,7 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 #### Financial markets and institutions
 
 + [Timing matters: Creditor incentives and delayed admission under India's IBC](http://www.igidr.ac.in/pdf/publication/WP-2026-007.pdf) (with Anjali Sharma), IGIDR Working Paper 2026-007, April 2026.
++ [Bankruptcy regime change and credit risk premium on corporate bonds: Evidence from the Indian economy](http://www.igidr.ac.in/igidr-publicationbankruptcy-regime-change-credit-risk-premium-corporate-bonds-evidence-indian-economy/) (with Harsh Vardhan), IGIDR Working Paper 2023-001, January 2023.
 + [A study of the non-banking finance companies in India](https://www.adb.org/publications/nonbanking-financial-companies-india) (with Lei Lei Song and Harsh Vardhan), ADB South Asia Working Paper 83, October 2021.
 + [Are more productive banks always better?](http://www.igidr.ac.in/pdf/publication/WP-2020-027.pdf) (with Harsh Vardhan), IGIDR Working Paper 2020-027, August 2020.
 
