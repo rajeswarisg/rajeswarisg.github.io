@@ -136,8 +136,8 @@ description: "Paper presentations, talks, panel discussions and podcasts by Raje
 + [Inflation crosses 6%: Did RBI act too late?](https://www.youtube.com/watch?v=JDhzMcPurQo), *The Morning Brief Decode* (The Economic Times), November 17, 2026.
 + [India's 7.8% GDP growth has an unanswered question](https://www.youtube.com/watch?v=UoqtGvahHbY&t=838s), *How India's Economy Works* (The Core), September 9, 2026.
 + [The Core Report on the rupee's trajectory](https://www.youtube.com/watch?v=5X7tJThShCI), hosted by Govindraj Ethiraj, May 22, 2026.
-+ [Core podcast on the RBI's rupee control](https://www.youtube.com/watch?v=KEqn6M_fJvo), hosted by Puja Mehra, April 15, 2026.
-+ [Core podcast on the Union Budget](https://www.youtube.com/watch?v=xhRjEBouWEk&list=PLnjIetY_5WrJgMOUNFcMHxQlAoFtlfU3o), hosted by Puja Mehra, February 11, 2025.
++ [Why the rupee keeps falling despite RBI intervention](https://www.youtube.com/watch?v=KEqn6M_fJvo), *How India's Economy Works* (The Core), April 15, 2026.
++ [India Budget 2025: Hidden risks & growth worries explained](https://www.youtube.com/watch?v=xhRjEBouWEk&list=PLnjIetY_5WrJgMOUNFcMHxQlAoFtlfU3o), *How India's Economy Works* (The Core), February 11, 2025.
 + [The life and times of the Indian economy](https://seenunseen.in/episodes/2024/6/24/episode-387-the-life-and-times-of-the-indian-economy/), *The Seen and the Unseen*, hosted by Amit Varma, June 24, 2024. [YouTube](https://www.youtube.com/watch?v=BWauPqA5M8o&t=3093s)
 + [Two-and-a-half Bengalis have an economics adda](https://seenunseen.in/episodes/2022/4/25/episode-274-two-and-a-half-bengalis-have-an-economics-adda/), *The Seen and the Unseen*, hosted by Amit Varma, April 25, 2022. [YouTube](https://www.youtube.com/watch?v=XYXcTnaT0Rg)
 + [Impact of the Covid-19 pandemic on India's financial sector](https://interpreting-india.simplecast.com/episodes/evaluating-the-health-of-indias-financial-institutions-with-rajeswari-sengupta), *Interpreting India* (Carnegie India), hosted by Suyash Rai, June 24, 2021. [YouTube](https://www.youtube.com/watch?v=huuvu_KlPC8&t=1005s)
