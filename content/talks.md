@@ -133,6 +133,7 @@ description: "Paper presentations, talks, panel discussions and podcasts by Raje
 
 ## Podcasts
 
++ [Inflation crosses 6%: Did RBI act too late?](https://www.youtube.com/watch?v=JDhzMcPurQo), *The Morning Brief Decode* (The Economic Times), November 17, 2026.
 + [The Core Report on the rupee's trajectory](https://www.youtube.com/watch?v=5X7tJThShCI), hosted by Govindraj Ethiraj, May 22, 2026.
 + [Core podcast on the RBI's rupee control](https://www.youtube.com/watch?v=KEqn6M_fJvo), hosted by Puja Mehra, April 15, 2026.
 + [Core podcast on the Union Budget](https://www.youtube.com/watch?v=xhRjEBouWEk&list=PLnjIetY_5WrJgMOUNFcMHxQlAoFtlfU3o), hosted by Puja Mehra, February 11, 2025.
