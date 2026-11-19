@@ -155,15 +155,15 @@ description: "Newspaper columns and blog posts by Rajeswari Sengupta."
 #### 2026
 
 + [Envisioning the INR as a floating exchange rate](https://blog.theleapjournal.org/2026/09/envisioning-inr-as-floating-exchange.html) (with Rounak Hande and Ajay Shah), *The Leap Blog*, September 4, 2026.
-+ [Words and deeds in the Indian exchange rate](https://blog.theleapjournal.org/2026/05/words-and-deeds-in-indian-exchange-rate.html), *The Leap Blog*, May 19, 2026.
++ [Words and deeds in the Indian exchange rate](https://blog.theleapjournal.org/2026/05/words-and-deeds-in-indian-exchange-rate.html) (with Ajay Shah), *The Leap Blog*, May 19, 2026.
 + [From scale to depth: Dismantling frictions within India's financial inclusion juggernaut](https://www.ideasforindia.in/topics/money-finance/from-scale-to-depth-dismantling-frictions-within-indias-financial-inclusion-juggernaut), *Ideas for India*, April 20, 2026.
-+ [India's GDP makeover: What is changing?](https://www.ideasforindia.in/topics/macroeconomics/indias-gdp-makeover-what-is-changing), *Ideas for India*, January 5, 2026.
++ [India's GDP makeover: What is changing?](https://www.ideasforindia.in/topics/macroeconomics/indias-gdp-makeover-what-is-changing) (with Santanu Pramanik), *Ideas for India*, January 5, 2026.
 
 #### 2025
 
 + [Reinforcing the anchor](https://blog.theleapjournal.org/2025/09/reinforcing-anchor-next-five-years-of.html), *The Leap Blog*, September 25, 2025.
 + [What India's GDP numbers reveal](https://www.theindiaforum.in/economy/what-indias-gdp-numbers-reveal), *The India Forum*, August 4, 2025.
-+ [RBI's costly experiments with the currency](https://www.ideasforindia.in/topics/money-finance/rbi-s-costly-experiments-with-the-currency.html), *Ideas for India*, February 21, 2025.
++ [RBI's costly experiments with the currency](https://www.ideasforindia.in/topics/money-finance/rbi-s-costly-experiments-with-the-currency.html) (with Ila Patnaik and Radhika Pandey), *Ideas for India*, February 21, 2025.
 + [Union Budget 2025-26: Many small measures but lacks big ideas](https://www.ideasforindia.in/topics/macroeconomics/union-budget-2025-26-many-small-measures-but-lacks-big-ideas.html), *Ideas for India*, February 5, 2025.
 
 #### 2024
