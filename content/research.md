@@ -27,7 +27,7 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 
 #### Open economy macroeconomics
 
-+ Capital mobility based on onshore-offshore arbitrage: Empirical evidence from India and China (with Nidhi Aggarwal and Sanchit Arora), forthcoming in *Open Economies Review*.  
++ Capital mobility based on onshore-offshore arbitrage: Empirical evidence from India and China (with Nidhi Aggarwal and Sanchit Arora), *Open Economies Review*, 2025.  
   [Working paper](https://ideas.repec.org/p/ind/igiwpp/2022-005.html)
 + [Analysing India's exchange rate regime](https://www.ncaer.org/wp-content/uploads/2022/09/IPF2021Paper2.pdf) (with Ila Patnaik), *India Policy Forum*, 2021.  
   [Working paper](http://www.igidr.ac.in/pdf/publication/WP-2021-022.pdf) · [Blogpost in Ideas for India](https://www.ideasforindia.in/topics/macroeconomics/understanding-the-dynamics-of-the-rupee-dollar-exchange-rate.html)
@@ -118,6 +118,7 @@ description: "Journal publications, working papers and book chapters by Rajeswar
 #### International trade
 
 + [Trade agreements and cross-border patenting: How much and when?](http://www.igidr.ac.in/wp-2026-020/) (with Ridwan Ah Sheikh), IGIDR Working Paper 2026-020, October 2026.
++ [Beyond tariffs: Why Europe and India must prioritise investment into manufacturing](https://www.bruegel.org/working-paper/beyond-tariffs-why-europe-and-india-must-prioritise-investment-manufacturing) (with Alicia Garcia-Herrero and Nina Vujanović), Bruegel Working Paper 19/2026, July 2026.
 
 ---
 
