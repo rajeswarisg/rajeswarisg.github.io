@@ -154,6 +154,7 @@ description: "Newspaper columns and blog posts by Rajeswari Sengupta."
 
 #### 2026
 
++ [Envisioning the INR as a floating exchange rate](https://blog.theleapjournal.org/2026/09/envisioning-inr-as-floating-exchange.html) (with Rounak Hande and Ajay Shah), *The Leap Blog*, September 4, 2026.
 + [Words and deeds in the Indian exchange rate](https://blog.theleapjournal.org/2026/05/words-and-deeds-in-indian-exchange-rate.html), *The Leap Blog*, May 19, 2026.
 + [From scale to depth: Dismantling frictions within India's financial inclusion juggernaut](https://www.ideasforindia.in/topics/money-finance/from-scale-to-depth-dismantling-frictions-within-indias-financial-inclusion-juggernaut), *Ideas for India*, April 20, 2026.
 + [India's GDP makeover: What is changing?](https://www.ideasforindia.in/topics/macroeconomics/indias-gdp-makeover-what-is-changing), *Ideas for India*, January 5, 2026.
